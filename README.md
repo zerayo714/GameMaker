@@ -1,7 +1,7 @@
 
-## GameMaker Lite 遊戲製作
+## GameMaker Lite 《Mario Brothers' Adventure》
 ### 遊戲封面
-![](https://github.com/zerayo714/GameMaker/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-03-28%20161240.png)
+![](https://github.com/zerayo714/GameMaker/blob/main/封面.png)
 
 
 ### 不同主題不同體驗
@@ -23,4 +23,4 @@
 ![](https://github.com/zerayo714/GameMaker/blob/main/5-1.png)
 
 ### 編輯介面(LITE版)
-![](https://github.com/zerayo714/GameMaker/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-03-28%20163738.png)
+![](https://github.com/zerayo714/GameMaker/blob/main/Edit_interface.png)
